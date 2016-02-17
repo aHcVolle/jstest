@@ -1,0 +1,25 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "pebble_volle@vllmr.eu",
+    "enableMultiJS": true,
+    "longName": "jstest",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "jstest",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "6c745377-7931-4f69-820a-86fc7727de0b",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
